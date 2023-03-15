@@ -10,5 +10,5 @@ How to Run:
 - Install PIL either using "pip install Pillow" command in the command line or in IDE
 - Then run "python main.py"
 
-What is does;
-Final routing table is printed in the console and the Nodes final position are shown in an image
+What is does:
+- Final routing table is printed in the console and the Nodes final position are shown in an image
