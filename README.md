@@ -8,7 +8,7 @@ Jatin Kumar
 
 How to Run:
 - Install PIL either using "pip install Pillow" command in the command line or in IDE
-- Then run "python main.py"
+- Then run "python aodv.py" or "python dsdv.py"
 
 What is does:
-- Final routing table is printed in the console and the Nodes final position are shown in an image
+- Final routing table of the respective routing protocol is printed in the console and the Nodes final position are shown in an image
