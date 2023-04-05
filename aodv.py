@@ -8,6 +8,9 @@ Then a source and destination nodes are selected randomly. Finally AODV routing
 algorithm is run from source to destination to find the route. Final route
 is displayed in the form of image as well as route and routing tables are printed
 in console ouptut. 
+
+__author__ = Jatin Kumar
+
 """
 
 

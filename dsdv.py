@@ -6,6 +6,9 @@ from PIL import Image, ImageDraw, ImageFont
 This code runs a simulation of DSDV algorithm. It not only add nodes but also removes nodes from the network
 and further simulates nodes rejoining the network. The final output shows routing tables of different nodes
 as well as an image of network topology.
+
+__author__ = Jatin Kumar
+
 """
 
 
